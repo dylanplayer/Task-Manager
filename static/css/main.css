@@ -1,0 +1,8 @@
+img {
+    box-shadow: none;
+}
+
+.btn:hover {
+    cursor: pointer;
+    box-shadow: 0 0 0 0.1rem rgba(55, 141, 252, 0.1);
+}
